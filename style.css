@@ -38,7 +38,6 @@ body {
     text-align: center;
 }
 
-
 .message {
     color: white;
     font-weight: 500;
@@ -93,12 +92,7 @@ body {
     bottom: 15%;
 }
 
-
-
-
-
 #a {
-
     border: 10px solid white;
     box-shadow: 10px 10px 35px rgb(231, 229, 229);
     box-sizing: content-box;
@@ -126,10 +120,7 @@ body {
     background-color: rgb(255, 233, 194);
     margin-right: 25px;
     margin-bottom: 40px;
-
 }
-
-
 
 #c {
     border: 10px solid white;
@@ -176,8 +167,6 @@ body {
 }
 
 #shelter {
-
-
     box-sizing: content-box;
     padding: 7px 7px;
     border-radius: 12px;
@@ -187,20 +176,15 @@ body {
 }
 
 #food {
-
-
     box-sizing: content-box;
     padding: 10px 10px;
     border-radius: 12px;
     margin-right: 15px;
     margin-bottom: 40px;
     background-color: rgb(240, 250, 255);
-
 }
 
 #education {
-
-
     box-sizing: content-box;
     padding: 10px 10px;
     border-radius: 12px;
