@@ -20,7 +20,7 @@ body {
     background-size: cover;
     background-attachment: fixed;
     background-size: 100% 100%;
-    padding: 10px 40px;
+
 }
 
 #first {
@@ -63,7 +63,7 @@ body {
 }
 
 .foundation {
-    margin-top: 5px;
+    margin-top: 0;
 }
 
 .flexible-container {
@@ -196,4 +196,36 @@ body {
 .orange-color {
     color: orange;
     font-weight: 500px;
+}
+
+#form-sub {
+
+    text-align: center;
+    font-weight: 700;
+    background-color: rgb(226, 226, 193);
+    background-position: center;
+    padding: 50px 10px 50px 10px;
+    border: none;
+    box-shadow: 10px 10px 35px rgb(214, 206, 206);
+
+
+
+}
+
+.design-1 {
+    padding: 13px 20px 13px 20px;
+    color: rgb(136, 131, 131);
+    background-color: rgb(255, 255, 255);
+    border: none;
+    border-radius: 3px;
+
+
+}
+
+.design-2 {
+    padding: 13px 20px 13px 20px;
+    color: white;
+    background-color: rgb(223, 66, 27);
+    border: none;
+    border-radius: 3px;
 }
