@@ -1,0 +1,215 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+
+.edit-text {
+    text-align: center;
+    padding: 100px 380px;
+}
+
+.edit-text-2 {
+    text-align: center;
+    padding: 20px 80px;
+
+}
+
+.bg {
+    background-image: url(donation13.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    padding: 10px 40px;
+}
+
+#first {
+    font-size: 50px;
+    font-weight: 700;
+    color: skyblue;
+    box-shadow: 10px 10px 10px black;
+    margin-top: 0%;
+}
+
+.second {
+    font: 50px;
+    font: weight 900px;
+    margin-top: 0%;
+    text-align: center;
+}
+
+
+.message {
+    color: white;
+    font-weight: 500;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+    padding: 10px 40px;
+    font-weight: 700;
+    border-radius: 10px;
+}
+
+.link-buttoon {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+    padding: 20px 20px;
+    font-weight: 700;
+    border-radius: 10px;
+    align-items: center;
+}
+
+.foundation {
+    margin-top: 5px;
+}
+
+.flexible-container {
+    display: flex;
+    margin-bottom: 100px;
+
+}
+
+.half-width {
+    width: 75%;
+    padding-left: 15%;
+    padding-bottom: 1;
+}
+
+.half-widths {
+    width: 50%;
+    padding-left: 5%;
+}
+
+.half-widths img {
+
+    width: 500%;
+    border: radius 25px;
+    padding-left: 40%;
+    padding-right: 10%;
+    bottom: 15%;
+}
+
+
+
+
+
+#a {
+
+    border: 10px solid white;
+    box-shadow: 10px 10px 35px rgb(231, 229, 229);
+    box-sizing: content-box;
+    font-weight: bolder;
+    font-size: 28px;
+    color: grey;
+    padding: 30px 30px;
+    border-radius: 12px;
+    border-color: white;
+    margin-right: 15px;
+    margin-bottom: 40px;
+}
+
+#b {
+    border: 10px solid white;
+    box-shadow: 10px 10px 35px rgb(231, 229, 229);
+    box-sizing: content-box;
+    font-weight: bolder;
+    font-size: 28px;
+    color: rgb(218, 89, 43);
+    padding: 30px 30px;
+    border-radius: 12px;
+    border-color: rgb(218, 89, 43);
+    border-style: hidden;
+    background-color: rgb(255, 233, 194);
+    margin-right: 25px;
+    margin-bottom: 40px;
+
+}
+
+
+
+#c {
+    border: 10px solid white;
+    box-shadow: 10px 10px 35px rgb(231, 229, 229);
+    box-sizing: content-box;
+    font-weight: bolder;
+    font-size: 28px;
+    color: grey;
+    padding: 30px 30px;
+    border-radius: 12px;
+    margin-right: 25px;
+    margin-bottom: 40px;
+}
+
+#d {
+    border: 10px solid white;
+    box-shadow: 10px 10px 35px rgb(231, 229, 229);
+    box-sizing: content-box;
+    font-weight: bolder;
+    font-size: 28px;
+    color: grey;
+    padding: 30px 30px;
+    border-radius: 12px;
+    margin-right: 15px;
+    margin-bottom: 40px;
+}
+
+#e {
+    border: 10px solid white;
+    box-shadow: 10px 10px 35px rgb(231, 229, 229);
+    box-sizing: content-box;
+    font-weight: bolder;
+    font-size: 28px;
+    color: grey;
+    padding: 30px 30px;
+    border-radius: 12px;
+    margin-right: 15px;
+    margin-bottom: 40px;
+}
+
+.line-design {
+    text-decoration-line: overline;
+    text-align: center;
+}
+
+#shelter {
+
+
+    box-sizing: content-box;
+    padding: 7px 7px;
+    border-radius: 12px;
+    margin-right: 15px;
+    margin-bottom: 40px;
+    background-color: rgb(255, 235, 239);
+}
+
+#food {
+
+
+    box-sizing: content-box;
+    padding: 10px 10px;
+    border-radius: 12px;
+    margin-right: 15px;
+    margin-bottom: 40px;
+    background-color: rgb(240, 250, 255);
+
+}
+
+#education {
+
+
+    box-sizing: content-box;
+    padding: 10px 10px;
+    border-radius: 12px;
+    margin-right: 15px;
+    margin-bottom: 40px;
+    background-color: rgb(255, 240, 221);
+}
+
+.orange-color {
+    color: orange;
+    font-weight: 500px;
+}
